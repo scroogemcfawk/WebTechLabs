@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    min-height: 100vh;
+    width: 100vw;
+    overflow: hidden;
+    display: grid;
+    grid-template-columns: 200px 1fr;
+    grid-template-rows: 100px 1fr;
+}
+
+.content {
+    display: grid;
+    grid-template-columns: 200px 1fr;
+    grid-column: span 2;
+}
+
+.content > * {
+    display: table-cell;
+    padding: 0 7px;
+}
+
+#gstat {
+    background-color: #C8FC98;
+}
+
+#wfluid {
+    flex: 1;
+}
+
+header {
+    grid-column: span 2;
+    background-color: #EAEAEA;
+}
+
+h3 > span {
+    color: red;
+    font-style: italic;
+}
+
+footer {
+    height: 40px;
+    background-color: black;
+    vertical-align: center;
+    display: flex;
+    align-items: center;
+    position: absolute;
+    bottom: 0;
+    width: 100vw;
+}
+
+footer > a {
+    color: yellow;
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+}
