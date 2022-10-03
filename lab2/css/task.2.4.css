@@ -1,0 +1,8 @@
+#content {
+    display: block;
+    position: absolute;
+    background-color: blue;
+    color: white;
+    max-width: 600px;
+    margin: auto 15px;
+}
