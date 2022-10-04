@@ -1,0 +1,45 @@
+div {
+    width: 150px;
+    height: 100px;
+    color: white;
+}
+
+#bvb {
+    background-color: blueviolet;
+    position: static;
+}
+
+#drb {
+    background-color: darkred;
+    position: relative;
+}
+
+#prb {
+    background-color: peru;
+    position: relative;
+    top: -30px;
+    right: -30px;
+}
+
+#irb {
+    background-color: indianred;
+    width: 600px;
+    height: 400px;
+    position: relative;
+}
+
+#igb {
+    width: 300px;
+    height: 200px;
+    background-color: indigo;
+    position: absolute;
+    right: 0;
+    top: 100px;
+}
+
+#fgb {
+    position: fixed;
+    background-color: forestgreen;
+    right: 0;
+    bottom: 0;
+}
