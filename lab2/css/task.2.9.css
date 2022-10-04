@@ -1,0 +1,16 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+div {
+    color: white;
+    background-color: blue;
+    width: 600px;
+    min-width: 600px;
+    margin: auto;
+}
+
+img {
+    float: right;
+}
