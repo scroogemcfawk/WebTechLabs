@@ -3,6 +3,11 @@
     margin: 0;
 }
 
+::selection {
+    color: white;
+    background-color: green;
+}
+
 header, footer {
     color: white;
     text-align: center;
@@ -55,7 +60,7 @@ span {
 }
 
 header {
-    background-color: darkgreen;
+    background-color: green;
     font-size: 2em;
     grid-row: 1;
     grid-column: span 4;
