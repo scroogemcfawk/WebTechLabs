@@ -1,0 +1,13 @@
+body > * {
+    margin: 20px auto;
+}
+
+#tbox {
+    width: 500px;
+}
+
+#bbox {
+    width: 380px;
+    border: 10px solid blue;
+    padding: 50px;
+}

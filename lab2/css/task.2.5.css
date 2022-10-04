@@ -1,0 +1,17 @@
+body {
+    color: white;
+}
+
+body > * {
+    margin: 30px auto;
+    width: 500px;
+}
+
+#gbox {
+    background-color: green;
+}
+
+#bbox {
+    border: 60px solid blue;
+    background-color: blue;
+}
