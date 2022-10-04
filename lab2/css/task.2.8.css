@@ -1,0 +1,37 @@
+body {
+    padding: 0;
+    display: table-row;
+}
+
+#left {
+    display: table-cell;
+    position: relative;
+    justify-items: stretch;
+    background-color: aqua;
+}
+
+#nest {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    min-height: 200px;
+}
+
+#list {
+    background-color: bisque;
+    width: 200px;
+}
+
+#text {
+    background-color: darkgray;
+    display: table-cell;
+}
+
+footer {
+    background-color: forestgreen;
+    height: 40px;
+    width: 100vw;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+}
