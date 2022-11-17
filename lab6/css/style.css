@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+.fill-parent {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+    height: 100%;
+    float: left;
+}
+
+#content {
+    position: absolute;
+    left: 12.5vw;
+    width: 75vw;
+    height: 60vh;
+}
+
+button {
+    width: 33.1%;
+    height: 40px;
+    margin: 0;
+    background-color: red;
+    color: white;
+    font-size: 30px;
+
+}
+
+img {
+    /*display: flex;*/
+    /*justify-self: center;*/
+
+}
+
+#l {
+    background-color: blue;
+}
+
+#r {
+    background-color: green;
+}
+
+.hidden {
+    display: none;
+}

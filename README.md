@@ -6,7 +6,7 @@ Progress:
 3. Позиционирование элементов с помощью CSS. Изучение селекторов и свойств CSS :white_check_mark:
 4. Комплексное задание по верстке Web-страницы :white_check_mark:
 5. Введение в JavaScript :white_check_mark:
-6. Изучение основ программирования на языке JavaScript :x:
+6. Изучение основ программирования на языке JavaScript :white_check_mark:
 7. Работа с JavaScript. Добавление и удаление элементов :x:
 8. Работа с DOM в JavaScript :x:
 9. Калькулятор на JavaScript :x:
