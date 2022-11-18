@@ -8,7 +8,7 @@ Progress:
 5. Введение в JavaScript :white_check_mark:
 6. Изучение основ программирования на языке JavaScript :white_check_mark:
 7. Работа с JavaScript. Добавление и удаление элементов :white_check_mark:
-8. Работа с DOM в JavaScript :x:
+8. Работа с DOM в JavaScript :white_check_mark:
 9. Калькулятор на JavaScript :x:
 10. Волшебник :x:
 11. -- :x:

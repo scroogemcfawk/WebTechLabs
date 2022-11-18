@@ -24,7 +24,6 @@ function draw(shape) {
         tag.style.top = y + "px";
         tag.setAttribute("onClick", "del(" + id + ")");
 
-
         if (shape === "circle") {
             tag.classList.add("circle");
             tag.style.borderWidth = `${rad}px`;
