@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    height: 100vh;
+}
+
+input {
+    /*position: absolute;*/
+    height: 25px;
+    width: 180px;
+}
+
+button {
+    top: 40px;
+    height: 25px;
+    width: 60px;
+}
+
+#shapes {
+    position: absolute;
+    height: 90vh;
+    top: 10vh;
+    /*background-color: red;*/
+    width: 100vw;
+}
+
+.shape {
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-style: solid;
+}
+
+.triangle {
+    border-style: solid;
+    border-width: 0 100px 100px 100px;
+    border-color: transparent transparent #007bff transparent;
+}
+
+.square {
+
+}
+
+.circle {
+    border-radius: 50%;
+}

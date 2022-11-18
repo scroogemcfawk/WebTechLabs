@@ -7,7 +7,7 @@ Progress:
 4. Комплексное задание по верстке Web-страницы :white_check_mark:
 5. Введение в JavaScript :white_check_mark:
 6. Изучение основ программирования на языке JavaScript :white_check_mark:
-7. Работа с JavaScript. Добавление и удаление элементов :x:
+7. Работа с JavaScript. Добавление и удаление элементов :white_check_mark:
 8. Работа с DOM в JavaScript :x:
 9. Калькулятор на JavaScript :x:
 10. Волшебник :x:
